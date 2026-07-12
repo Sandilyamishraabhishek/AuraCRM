@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+dist/
+.vite/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local Database
+crm_hcp.db
+
+# Environment variables
+.env
