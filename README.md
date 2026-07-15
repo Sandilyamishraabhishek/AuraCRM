@@ -2,6 +2,8 @@
 
 AuraCRM is an AI-First Healthcare Professional (HCP) CRM system designed to streamline physician relationship management, interaction logging, and clinical materials tracking. Powered by a React frontend and a FastAPI backend with LangGraph/LangChain agentic workflows, it enables medical representatives to log interactions, query materials, and search HCP databases through natural conversation.
 
+![AuraCRM Dashboard Working](./app_screenshot.png)
+
 ---
 
 ## 🚀 Tech Stack
